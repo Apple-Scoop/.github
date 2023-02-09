@@ -1,4 +1,4 @@
-## Apple Scoop has been built from the ground up to be fast, secure and modern. And with great features like Instant Stories, Speak, RSS, Topics and Leaderboard — getting to the stories you care about has never been easier.
+## The Apple Scoop site has been built from the ground up to be fast, secure and modern. And with great features like Instant Stories, Speak, RSS, Topics and more — getting to the stories you care about has never been easier.
 
 <!--
 
@@ -10,3 +10,6 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+*If you're interested in Apple, design, journalism or web development, consider joining our team. Let's make something great together!*
+https://applescoop.org/contact/?type=join
